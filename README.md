@@ -64,8 +64,6 @@
 
 Email: adolf119ok@protonmail.com
 <br>
-Discord: davidcole_96390
-<br>
 Skype: live:.cid.af083c783bb7f0
 
 </body>
