@@ -10,7 +10,7 @@
 
 <h1 align = "center">Hi, Everyone 🙂</h1>
 <p>Nice to meet you.</p>
-<p>My name is Adolf Winter and I am a Full Stack Developer(Blockchain).</p>
+<p>My name is Natan Jakubowski and I am a Front End Developer.</p>
 <p>I have worked in various field and this is my strength.</p>
 <p>Most of projects are related to web development and scraping.</p>
 <p>Strong Experience with Blockchain.</p>
@@ -62,9 +62,7 @@
 ### **Contact Me**
 
 
-Email: adolf119ok@protonmail.com
-<br>
-Skype: live:.cid.af083c783bb7f0
+Email: natanjakubowski493@outlook.com
 
 </body>
 </html>
