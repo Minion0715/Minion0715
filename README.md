@@ -16,7 +16,7 @@
 <p>Strong Experience with Blockchain.</p>
 <p>If you have any project, let me help you</p>
 
-<h1 align = "center">Full Stack Developer(Blockchain)</h1>
+<h1 align = "center">Front End Developer</h1>
 
 ## About Me
 
