@@ -10,13 +10,13 @@
 
 <h1 align = "center">Hi, Everyone 🙂</h1>
 <p>Nice to meet you.</p>
-<p>My name is Natan Jakubowski and I am a Front End Developer.</p>
+<p>My name is Chester from Singapore and I am a blockchain engineer.</p>
 <p>I have worked in various field and this is my strength.</p>
 <p>Most of projects are related to web development and scraping.</p>
 <p>Strong Experience with Blockchain.</p>
 <p>If you have any project, let me help you</p>
 
-<h1 align = "center">Front End Developer</h1>
+<h1 align = "center">Blockchain Full Stack Developer</h1>
 
 ## About Me
 
@@ -62,7 +62,7 @@
 ### **Contact Me**
 
 
-Email: natanjakubowski493@outlook.com
+Email: chester.reynolds.frog715@gmail.com
 
 </body>
 </html>
