@@ -20,17 +20,17 @@
 
 ## About Me
 
-😎 Strong Experience with Mern Stack and Blockchain with over 8 years.
+😎 8+ years mastering Mern Stack and Blockchain.
 
-🔭 Spent most years making amazing website with combined experience in FinTech, Software Engineering, and Blockchain Architecture.
+🔭 FinTech, Software Engineering, and Blockchain Architecture maestro.
 
-🚀 Participated in the complete product development lifecycle of successfully launched projects based on cutting-edge technologies of DeFi and Cryptography.
+🚀 Led projects from inception to success in DeFi and Cryptography.
 
-👨‍💻 Well versed in blockchain programming languages, frameworks and platforms,  and having good experience in Agile development, DevOps and Team collaboration.
+👨‍💻 Proficient in blockchain languages, frameworks, Agile, and DevOps.
 
-⚡ A passionate dev, quick learner, team worker, self-starter.
+⚡ Passionate, quick learner, and collaborative team player.
 
-👨‍🎓 Bachelor of Computer Science
+👨‍🎓 Bachelor of Computer Science graduate.
 
 <br>
 
