@@ -10,7 +10,7 @@
 
 <h1 align = "center">Hi, Everyone 🙂</h1>
 <p>Nice to meet you.</p>
-<p>My name is Chester from Singapore and I am a blockchain engineer.</p>
+<p>I am a blockchain engineer.</p>
 <p>I have worked in various field and this is my strength.</p>
 <p>Most of projects are related to web development and scraping.</p>
 <p>Strong Experience with Blockchain.</p>
